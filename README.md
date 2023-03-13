@@ -1,5 +1,2 @@
 # ita1da
-
-
-
 sami
